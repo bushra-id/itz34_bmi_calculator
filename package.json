@@ -1,6 +1,6 @@
 {
   "name": "itz34_bmi_calculator",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "this is a cli base bmi calculator",
   "main": "bmi.js",
   "type": "module",
